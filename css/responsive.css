@@ -1,0 +1,217 @@
+@media (max-width: 1366px) {
+	#parallax-world-of-ugg .parallax-one .pic {margin: 80px 0 0 0;}
+	#parallax-world-of-ugg .parallax-one .pic h1:after {bottom: 66px;}
+	.swiper-slide img {height: 558px;}
+	.courses_detail .gray_box ul li {padding: 0;}
+	.courses_detail .blue_box ul li {padding: 0;}
+	.courses_detail .darkblue_box ul li {padding: 0;}
+	.courses_detail .gray_box {padding: 28px 35px;}
+	.courses_detail .blue_box {padding: 28px 35px;}
+	.courses_detail .darkblue_box {padding: 28px 35px;}
+	.courses_detail .slide_box img {width: 123px; height: 123px;}
+	.courses_detail .block {height: 221px;}
+	.courses_detail .light_blue_box {padding: 20px 10px;}
+	.courses_detail .dark_blue_box {padding: 20px 10px;}
+	.courses_detail .slide_box .content{width: calc(100% - 123px);height: 123px;padding: 20px 10px;}
+	.courses_detail #mixedSlider .MS-controls button{top: 40px;}
+}
+@media (max-width: 1199px) {
+	.courses_detail #mixedSlider .MS-content .item{width: 100%;}
+	.courses_detail .slide_box .content {padding: 30px 15px;}
+}
+@media (max-width: 1024px) {
+	.swiper-container {height: 414px;}
+	.swiper-slide h1 {top: 130px;}
+	.swiper-slide p {top: 218px;}
+	.courses_tabs .tab-content .box {width: 160px; height: 141px;}
+	.courses_tabs ul li a.active {width: 340px;}
+	.courses_tabs ul li a {padding: 14px 15px; font-size: 13px;}
+	#parallax-world-of-ugg .parallax-one .pic {margin: 110px 0 0 0;}
+	#parallax-world-of-ugg .parallax-one .pic h1:after {bottom: 190px;}
+	.courses_offered .blue p {font-size: 16px;}
+	.courses_offered .dark p {font-size: 16px;}
+	.courses_offered .black p {font-size: 16px;}
+	.mission-vision .mission-text p {font-size: 18px;}
+	.courses_tabs ul li a.active {width: 338px;}
+	.courses_tabs ul li a {font-size: 13px; padding: 13px 25px;}
+}
+@media (max-width: 991px) {
+	#mixedSlider .MS-controls button {font-size: 30px;}
+	.courses_detail #mixedSlider .MS-content .item{width: 50%;}
+	.courses_detail .slide_box .content{padding: 25px 8px;}
+	.courses_detail .slide_box .content h1{font-size: 14px; margin: 0px 0px 10px 0px;}
+	.courses_detail .slide_box .content p{font-size: 12px;}
+	.header .navbar-light .navbar-nav .nav-link {padding: 8px 18px;}
+}
+@media(min-width:992px) {
+    .courses_tabs .nav-tabs {display: flex;}
+    .courses_tabs .card {border: none;}
+    .courses_tabs .card .card-header {display: none;}
+    .courses_tabs .card .collapse {display: block;}
+}
+@media (max-width: 991px) {
+	#mixedSlider .MS-content .item {width: 50%;}
+	.mission-vision .mission-text {height: auto;}
+	.mission-vision .vision-text {height: auto;}
+	.margin_none {margin: 0px !important;}
+	.courses_detail{padding-left: 0px;}
+	.header .bg-light > .container.p-0 {position: relative;}
+	button.navbar-toggler {position: absolute;top: -60px;right: 15px; outline: none;}
+	.header .bg-light {position: absolute;top: 110px;z-index: 9999;}
+}
+@media (max-width: 768px) {
+	.swiper-slide img {height: 100%;}
+	.swiper-container {height: 310px;}
+	.swiper-slide h1 {font-size: 22px; top: 110px;}
+	.swiper-slide p {font-size: 18px; top: 170px;}
+	.courses_tabs li a.active {width: 260px;}
+	.courses_tabs a {width: 100%; display: block; padding: 15px; font-size: 14px; font-weight: 400; color: #ffffff; outline: none; text-decoration: none;}
+	.courses_tabs li a.active {width: 100%; border-radius: 0px;}
+	.courses_tabs li a.active .fa-caret-right {position: absolute; right: 16px;}
+	.courses_tabs li a .fa-caret-right {float: right;}
+	.about_us .sq-crousal4 .carousel-control-prev {right: 0;}
+	.about_us .sq-crousal4 .carousel-control-next {right: 0;}
+	#parallax-world-of-ugg .parallax-one .pic {margin: 0; float: left;}
+	#parallax-world-of-ugg .parallax-one .pic h1:after {background-image: none;}
+	footer ul li a {font-size: 13px;}
+	.courses_detail .pr-0 {padding: 0!important;}
+	.about-college .about-logo {margin: 0 0 30px 0;}
+	.mission-vision .mission-text {height: auto;}
+	.mission-vision .vision-text {height: auto;}
+}
+@media (max-width: 767px) {
+	#mixedSlider .MS-content .item {width: 100%;}
+	#mixedSlider .MS-controls .MS-left {left: -10px;}
+	#mixedSlider .MS-controls .MS-right {right: -10px;}
+	#mixedSlider .MS-controls button {font-size: 20px;}
+	.courses_detail #mixedSlider .MS-content .item {width: 100%;}
+	.about-college .about-logo {margin: 0 0 30px 0;}
+	.mission-vision .mission-text {height: auto;}
+	.mission-vision .vision-text {height: auto;}
+	.courses_tabs .tab-content .tab-pane {display: block !important; opacity: 1;}
+	.courses_tabs .tab-content {padding: 0;}
+	.courses_tabs .card-header {border-radius: 0px; padding: 0; margin-bottom: 0; background-color: #3b7fc7; border-top: 1px solid #3a6ca2;}
+	.courses_tabs .card {border: none; border-radius: 0;}
+	.courses_tabs .card-body {padding: 20px;}
+	.courses_tabs a .fa-caret-right {float: right;}
+}
+@media (max-width: 575px) {
+	button.navbar-toggler{right: 15px; top: -66px;}
+	.header .logo img {max-width: 190px;}
+}
+@media (max-width: 399px) {
+	.courses_detail .slide_box img {
+		width: 103px;
+		height: 103px;
+	}
+	.courses_detail .slide_box .content {
+		width: calc(100% - 103px);
+		height: 103px;
+		padding: 10px 5px;
+	}
+	.courses_detail #mixedSlider .MS-controls button {
+		top: 33px;
+	}
+}
+@media (max-width: 320px) {
+	.swiper-slide h1 {top: 70px;}
+	.about_us .aboutleftbox {padding: 15px;}
+	.about_us .sq-crousal4 .carousel-control-prev {left: 30px; right: auto; top: -18px;}
+	.about_us .sq-crousal4 .carousel-control-next {right: 250px; top: -18px;}
+	#parallax-world-of-ugg .parallax-one {padding: 30px;}
+	#parallax-world-of-ugg .parallax-one .text {width: 100%;}
+	#parallax-world-of-ugg .parallax-one .text img {width: 100%;}
+	.courses_offered .text .bgcolor {margin: 0 0 10px 0; width: 100%;}
+	.courses_offered .text .outline {width: 100%;}
+	.courses_offered .texttwo .bgcolor {margin: 0 0 10px 0; width: 100%;}
+	.courses_offered .texttwo .outline {width: 100%;}
+	.courses_detail .light_blue_box {width: 100%;}
+	.courses_detail .dark_blue_box {width: 100%;}
+	.sub_title {padding: 11px 10px;}
+	.sub_title ul li span {font-size: 11px;}
+	.courses_detail #mixedSlider .MS-content .item {width: 100%;}
+	.about-college .about-logo {margin: 0 0 30px 0;}
+	.mission-vision .mission-text {height: auto;}
+	.mission-vision .vision-text {height: auto;}
+	.mission-vision .sin-banner-2 .overlay {width: 94.5%;}
+}
+@media (min-width: 320px) and (max-width: 479px) {
+	.top-bar {padding: 3px 10px;}
+	.swiper-slide h1 {font-size: 18px;}
+	.swiper-slide p {font-size: 14px;}
+	.swiper-button-next span {top: 10px; font-size: 14px;}
+	.swiper-button-prev span {top: 10px; font-size: 14px;}
+	.swiper-slide img {height: 100%;}
+	.courses_tabs .tab-content .box {width: 100%; height: auto;}
+	.header .top-info {display: none;}
+	.header .logo {margin: 0 auto; padding: 7px 0;}
+	.swiper-slide h1 {top: 70px;}
+	.about_us .aboutleftbox {padding: 15px;}
+	.about_us .sq-crousal4 .carousel-control-prev {left: 30px; right: auto; top: -18px;}
+	.about_us .sq-crousal4 .carousel-control-next {right: 250px; top: -18px;}
+	#parallax-world-of-ugg .parallax-one {padding: 30px;}
+	#parallax-world-of-ugg .parallax-one .text {width: 100%;}
+	#parallax-world-of-ugg .parallax-one .text img {width: 100%;}
+	.courses_offered .blue p {font-size: 13px;}
+	.courses_offered .dark p {font-size: 13px;}
+	.courses_offered .black p {font-size: 13px;}
+	.courses_detail .light_blue_box {width: 100%;}
+	.courses_detail .dark_blue_box {width: 100%;}
+	.sub_title {padding: 11px 10px;}
+	.sub_title ul li span {font-size: 11px;}
+	.about-college .about-logo {margin: 0 0 30px 0;}
+	.mission-vision .sin-banner-2 .overlay {width: 94.5%;}
+}
+@media (min-width: 480px) and (max-width: 767px) {
+	.top-bar {padding: 3px 10px;}
+	.swiper-slide h1 {font-size: 18px;}
+	.swiper-slide p {font-size: 14px;}
+	.swiper-button-next span {top: 10px; font-size: 14px;}
+	.swiper-button-prev span {top: 10px; font-size: 14px;}
+	.swiper-slide img {height: 100%;}
+	.courses_tabs .tab-content .box {width: 100%; height: auto;}
+	.header .top-info {display: none;}
+	.swiper-slide h1 {top: 70px;}
+	.about_us .aboutleftbox {padding: 15px;}
+	.about_us .sq-crousal4 .carousel-control-prev {left: 30px; right: auto; top: -18px;}
+	.about_us .sq-crousal4 .carousel-control-next {right: 250px; top: -18px;}
+	#parallax-world-of-ugg .parallax-one {padding: 30px;}
+	#parallax-world-of-ugg .parallax-one .text {width: 100%;}
+	#parallax-world-of-ugg .parallax-one .text img {width: auto;}
+	.courses_detail .light_blue_box {width: 100%;}
+	.courses_detail .dark_blue_box {width: 100%;}
+	.sub_title {padding: 11px 10px;}
+	.sub_title ul li span {font-size: 12px;}
+	.about-college .about-logo {margin: 0 0 30px 0;}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.courses_tabs li a.active {width: 100%; border-radius: 0px;}
+	.courses_tabs li a.active .fa-caret-right {right: 16px;}
+	.header .top-info {display: none;}
+	#parallax-world-of-ugg .parallax-one .pic {margin: 0; float: left;}
+	#parallax-world-of-ugg .parallax-one .pic h1:after {background-image: none;}
+	.courses_detail .pr-0 {padding: 0!important;}
+	.about-college .about-logo {margin: 0 0 30px 0;}
+	.courses_tabs .tab-content .tab-pane {display: block !important; opacity: 1;}
+	.courses_tabs .tab-content {padding: 0;}
+	.courses_tabs .card-header {border-radius: 0px; padding: 0; margin-bottom: 0; background-color: #3b7fc7; border-top: 1px solid #3a6ca2;}
+	.courses_tabs .card {border: none; border-radius: 0;}
+	.courses_tabs .card-body {padding: 20px;}
+	.courses_tabs a .fa-caret-right {float: right;}
+	.courses_tabs li a.active {width: 260px;}
+	.courses_tabs a {width: 100%; display: block; padding: 15px; font-size: 14px; font-weight: 400; color: #ffffff; outline: none; text-decoration: none;}
+	.courses_tabs li a.active {width: 100%; border-radius: 0px;}
+	.courses_tabs li a.active .fa-caret-right {position: absolute; right: 16px;}
+	.courses_tabs li a .fa-caret-right {float: right;}
+}
+@media (min-width: 992px) and (max-width: 1023px) {
+	.courses_tabs .tab-content {padding: 20px 60px 8px 45px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.about-college .about-logo {margin: 0 0 30px 0;}
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+	.courses_tabs ul li a.active {width: 340px;}
+	.courses_tabs .tab-content .box {margin: 0 10px 10px 0; padding: 15px; border: 1px solid #e3e7eb; width: 165px; height: 145px;}
+	.courses_tabs ul li a {font-size: 13px; padding: 13px 25px;}
+}
